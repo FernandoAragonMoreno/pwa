@@ -1,3 +1,4 @@
+/*
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
     navigator.serviceWorker
@@ -36,3 +37,4 @@ const showCoffees = () => {
 }
 
 document.addEventListener("DOMContentLoaded", showCoffees)
+*/

@@ -1,3 +1,4 @@
+/*
 const staticDevCoffee = "dev-coffee-site-v1"
 const assets = [
   "/",
@@ -30,3 +31,4 @@ self.addEventListener("fetch", fetchEvent => {
       })
     )
   })
+  */
